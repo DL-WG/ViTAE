@@ -100,7 +100,7 @@ Results of test data of ```Unsteady wake flow``` are listed below:
 | ViTAE-large/8 | **0.0023** | **84.37** | **0.9988** | 0.0052               |
 
 Performances of ViTAE and VCNN for different observation density of Unsteady wake flow
-<img src="./outputs/compare/cylinder/cylinder_pred.png" width=1000 />
+<img src="./outputs/compare/cylinder/cylinder_pred.png" width=800 />
 
 ### 5.4 NOAA
 
@@ -110,4 +110,4 @@ Performances of ViTAE and NOAA for sparse observations.
 
 NOAA field reconstruction performances of ViTAE and VCNN for various input observations.
 
-<img src="./outputs/compare/noaa/noaa_compare.png" width=1000 />
+<img src="./outputs/compare/noaa/noaa_compare.png" width=800 />
