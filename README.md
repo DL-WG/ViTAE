@@ -106,7 +106,7 @@ Performances of ViTAE and VCNN for different observation density of Unsteady wak
 
 Performances of ViTAE and NOAA for sparse observations.
 
-<img src="./outputs/compare/noaa/noaa_pred.png" width=1000 />
+<img src="./outputs/compare/noaa/noaa_pred.png" width=800 />
 
 NOAA field reconstruction performances of ViTAE and VCNN for various input observations.
 
